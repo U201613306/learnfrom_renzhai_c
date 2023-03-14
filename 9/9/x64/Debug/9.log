@@ -1,0 +1,13 @@
+﻿  Source.c
+e:\bai\20200514_手把手入门硬核c语言\基础工程\c\c\9\9\source.c(8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\bai\20200514_手把手入门硬核c语言\基础工程\c\c\9\9\source.c(21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\bai\20200514_手把手入门硬核c语言\基础工程\c\c\9\9\source.c(44): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\bai\20200514_手把手入门硬核c语言\基础工程\c\c\9\9\source.c(97): warning C4129: “%”: 不可识别的字符转义序列
+e:\bai\20200514_手把手入门硬核c语言\基础工程\c\c\9\9\source.c(132): warning C4013: “itoa”未定义；假设外部返回 int
+e:\bai\20200514_手把手入门硬核c语言\基础工程\c\c\9\9\source.c(147): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+e:\bai\20200514_手把手入门硬核c语言\基础工程\c\c\9\9\source.c(116): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\bai\20200514_手把手入门硬核c语言\基础工程\c\c\9\9\source.c(132): warning C4047: “初始化”:“char *”与“int”的间接级别不同
+e:\bai\20200514_手把手入门硬核c语言\基础工程\c\c\9\9\source.c(133): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\bai\20200514_手把手入门硬核c语言\基础工程\c\c\9\9\source.c(413): warning C4013: “system”未定义；假设外部返回 int
+e:\bai\20200514_手把手入门硬核c语言\基础工程\c\c\9\9\source.c(410): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  9.vcxproj -> E:\bai\20200514_手把手入门硬核C语言\基础工程\c\c\9\x64\Debug\9.exe
